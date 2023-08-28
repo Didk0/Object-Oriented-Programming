@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Programming\OOP 2020-2021\Practice3\Employee_Company\Source.cpp(6,14): warning C4930: 'Employee e(void)': prototyped function not called (was a variable definition intended?)
+  Employee_Company.vcxproj -> D:\Programming\OOP 2020-2021\Practice3\Debug\Employee_Company.exe
