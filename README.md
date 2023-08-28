@@ -1,2 +1,2 @@
 # Object-Oriented-Programming
-Домашни и проект от курса Обектно ориентирано програмиране.
+Homeworks, exercises and project from the course OOP in FMI
