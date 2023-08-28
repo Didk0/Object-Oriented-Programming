@@ -1,0 +1,7 @@
+﻿  Student.cpp
+D:\Programming\OOP 2020-2021\Practice2\Problem3\Student.cpp(42,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programming\OOP 2020-2021\Practice2\Problem3\Student.cpp(57,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programming\OOP 2020-2021\Practice2\Problem3\Student.cpp(86,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programming\OOP 2020-2021\Practice2\Problem3\Student.cpp(99): warning C4700: uninitialized local variable 'student' used
+D:\Programming\OOP 2020-2021\Practice2\Problem3\Student.cpp(107): warning C4700: uninitialized local variable 'fn' used
+  Problem3.vcxproj -> D:\Programming\OOP 2020-2021\Practice2\Debug\Problem3.exe
